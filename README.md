@@ -4,7 +4,7 @@ PokerPal is an automated poker chip sorting system developed as part of Acadia U
 
 The system uses a color sensor to identify poker chips and automatically sorts them into their corresponding slots using a servo-driven mechanism.
 
-![PokerPal Finished System]
+![PokerPal CAD Model](media/pokerpal-cad.png)
 ## Features
 - Automatic chip color detection
 - Servo-based chip sorting
