@@ -12,18 +12,27 @@ The system uses a color sensor to identify poker chips and automatically sorts t
 - Display for system feedback
 - Embedded control system
 - Custom CAD-designed mechanical components
-- 
+  
 ## Hardware
 - Microprocessor
 - Color sensor
 - Servo motor
 - Keypad
 - Display
+
+### Electrical Schematic
+
+![PokerPal Electrical Schematic](media/electrical-schematic.jpg)
+
+### Sorting Mechanism
+
+![PokerPal Sorting Mechanism](media/sorting-mechanism.gif)
+
+### Finished Product
+
+![PokerPal Finished Product](media/final-product.jpg)
   
 ## My Contributions
 Developed the control logic and hardware interfaces to coordinate the sorting process.
 Co-designed the CAD model and mechanical integration of the system.
 Integrated the electronic and mechanical components into the automated sorting system.
-
-## Project Demonstration
-
